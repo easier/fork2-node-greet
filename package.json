@@ -1,0 +1,17 @@
+{
+  "name": "greet",
+  "version": "0.0.0",
+  "description": "a simple greeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Hello-world"
+  ],
+  "author": "easier",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
